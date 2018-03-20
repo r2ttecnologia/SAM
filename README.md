@@ -61,7 +61,7 @@ sam.createManager({
        init: "14:00",
        end: "16:00"
    }],
-   custom: { //opcional
+   custom: {
        name: "Cool"
    }
 }, callback)
@@ -76,12 +76,17 @@ Cria um operador dentro do sistema.
 | managerid | Identificação do gerente | true |
 | operatorid | Identificação do operador | true |
 | busyTime | Array representando os dias da semana com os horários indisponíveis | true |
+| custom | Dados personalizados do operador | false |
+
 
 ```js
 sam.createOperator({
    managerid: 1,
    operatorid: 20,
-   busyTime: [["13:30"], [], [], ["12:30"], [], [], []]
+   busyTime: [["13:30"], [], [], ["12:30"], [], [], []],
+   custom:{
+       cool:true
+   }
 }, callback);
 ```
 
