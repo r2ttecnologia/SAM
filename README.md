@@ -4,7 +4,7 @@
 
 ## Português 🇧🇷
 
-> [For english 🇺🇸](#english 🇺🇸)
+> [For english 🇺🇸](#english-)
 
 ### Introdução
 
@@ -16,6 +16,6 @@ Por estar disponibilizado no *NPM*, sua instalação se deve pelo comando ``npm 
 
 ## English 🇺🇸
 
-> [For portuguese 🇧🇷](#Portugues 🇧🇷)
+> [For portuguese 🇧🇷](#português-)
 
 ### Introduction
