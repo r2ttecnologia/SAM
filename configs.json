@@ -1,0 +1,10 @@
+{
+    "host": "localhost",
+    "user": "drcefaleia",
+    "pass": "iE42ZHZun3Td6LVZBAhe",
+    "db": "drcefaleia",
+    "manager": "manager",
+    "event": "event",
+    "time": "30",
+    "expire": "730"
+}
